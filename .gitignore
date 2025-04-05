@@ -35,3 +35,4 @@ minecraft_server/Server.iml
 
 # include src files that you have edited here
 # !minecraft/src/net/minecraft/client/Minecraft.java
+!minecraft/src/net/minecraft/src/ItemSlab.java
